@@ -44,4 +44,5 @@ Finally, the simulation ends at Time = 90,000 ps with the `$finish` command, ind
 Overall, this waveform effectively validates the correct functionality of the synchronous RAM design, confirming proper data storage and retrieval behavior across different memory addresses.
 
 OUTPUT:
+<img width="1774" height="887" alt="Image" src="https://github.com/user-attachments/assets/9378ce78-d375-4c64-913e-25fbfd8c7d0d" />
 
